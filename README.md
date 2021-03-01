@@ -1,16 +1,16 @@
 # sahibineulas
 
-A new Flutter project.
+Sahibine Ulas Mobile App is designed for pet tracking system
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The system coded on the flutter. Firebase Firestore used for database process.
+I didn't use the model for database. So we can send any data from app.
+Please be careful about this situation.
+All the images should store at images folder in project source.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Run
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter package should be installed, I suggest visual studio code as coding platform.
+After all the installation, Run the flutter pub get command on terminal. All the packages in the projects will install.
+After this just run flutter run command on terminal in project folder.
