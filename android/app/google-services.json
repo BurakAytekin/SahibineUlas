@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811870162420",
+    "project_id": "sahibineulas",
+    "storage_bucket": "sahibineulas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811870162420:android:57f490efa46e8804357da1",
+        "android_client_info": {
+          "package_name": "com.example.sahibineulas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811870162420-qqtmkv7pni8dt0oh73hsk7gc1tgo35rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7pUvBXRJISyq38HWV5FZDN5OJYsp2lHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811870162420-qqtmkv7pni8dt0oh73hsk7gc1tgo35rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
